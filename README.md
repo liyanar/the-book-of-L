@@ -1,3 +1,3 @@
-# the-book-of-L
+# Welcome to my blog
 
-Welcome inside my brain
+Hello World! My style and speech is janky like the weird internet of the 90´s
